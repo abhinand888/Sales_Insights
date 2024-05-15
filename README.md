@@ -20,16 +20,48 @@ and make informed, data-driven decisions.
 By providing a clear, visual representation of the data, the sales director can move away from relying on 
 Excel files and overly optimistic reports from regional managers, reducing misunderstandings and frustration.
 
+### Data:-
+
+
+
 ### Tools used: MySQL, Microsoft Power BI, Power Query Editor, DAX
+
+### Task:-
+
+- Finding Profit Margin, Sales Quantity and Revenue made in each year/month
+- Analyzing top 5 customers and product by revenue
+- Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
+- Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
+- Finding the Revenue trend by years
+- Analyzing Revenue contribution by customer type.
+
+### Data Cleaning:-
+
+- Removed zones which were left blank in market table
+- Removed sales amount which were less than 0 in sales transaction table
+- Created new table called Normalized sales price to convert the USD price to INR price in sales transaction table
+- Removed duplicates from currency column in sales transaction table.
+
+### Dashboarding:-
+
+
+
+
 
 ### Insights:-
 
-There is a decrease in the revenue trend from 2017–2020
-Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
-E-commerce gives the highest revenue contribution by customer type
-Surat gives highest profit % by market
-Central Market contributes to more Revenue
+- There is a decrease in the revenue trend from 2017–2020
+- Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
+- E-commerce gives the highest revenue contribution by customer type
+- Surat gives highest profit % by market
+- Central Market contributes to more Revenue
 
-### Task:-
+### What I’ve Learned:-
+
+- How to do basic DAX calculations in measures
+- Importing data from SQL to Power BI
+- Publishing report to Power BI service
+- How to use basic charts for visualization
+- How to use filters in charts
 
 
