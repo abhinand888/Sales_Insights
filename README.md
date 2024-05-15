@@ -18,3 +18,13 @@ and make informed, data-driven decisions.
 
 By providing a clear, visual representation of the data, the sales director can move away from relying on 
 Excel files and overly optimistic reports from regional managers, reducing misunderstandings and frustration.
+
+Tools used: MySQL, Microsoft Power BI, Power Query Editor, DAX
+
+Insights:-
+
+There is a decrease in the revenue trend from 2017–2020
+Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
+E-commerce gives the highest revenue contribution by customer type
+Surat gives highest profit % by market
+Central Market contributes to more Revenue
