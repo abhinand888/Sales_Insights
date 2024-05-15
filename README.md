@@ -47,6 +47,7 @@ Excel files and overly optimistic reports from regional managers, reducing misun
 
 
 
+![Screenshot (454)](https://github.com/abhinand888/Sales_Insights/assets/87313645/978eefc8-2c08-4b86-ad54-e1fcbd2463dd)
 
 ### Insights:-
 
