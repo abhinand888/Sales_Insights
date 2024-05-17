@@ -21,8 +21,9 @@ By providing a clear, visual representation of the data, the sales director can 
 Excel files and overly optimistic reports from regional managers, reducing misunderstandings and frustration.
 
 ### Data:-
+I have been provided with the SQL dataset which contains Sales customers,Sales date,Sales transactions,Sales Markets,Sales Products.
 
-
+![Screenshot (459)(1)](https://github.com/abhinand888/Sales_Insights/assets/87313645/6952a7c5-da21-459b-a891-38b5d6fe8e7c)
 
 ### Tools used: MySQL, Microsoft Power BI, Power Query Editor, DAX
 
@@ -57,7 +58,7 @@ Excel files and overly optimistic reports from regional managers, reducing misun
 - Surat gives highest profit % by market
 - Central Market contributes to more Revenue
 
-### What I’ve Learned:-
+### Key Learnings:-
 
 - How to do basic DAX calculations in measures
 - Importing data from SQL to Power BI
