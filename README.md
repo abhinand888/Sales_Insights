@@ -11,7 +11,7 @@ This is understandable, as it's difficult to interpret numbers solely from Excel
 
 ### Solution:-
 
-As a data analyst, I propose a solution to address the sales director’s challenges at the company:
+Proposed a solution to address the sales director’s challenges at the company:
 implementing PowerBI dashboards for data visualization and analysis. These dashboards can consolidate data
 from various sources, including the company’s sales figures, market trends, and regional manager reports.
 With these tools, the sales director can easily view the current business status, identify problem areas, 
