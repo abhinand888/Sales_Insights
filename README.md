@@ -12,7 +12,7 @@ This is understandable, as it's difficult to interpret numbers solely from Excel
 ### Solution:-
 
 Proposed a solution to address the sales director’s challenges at the company:
-implementing PowerBI dashboards for data visualization and analysis. These dashboards can consolidate data
+Implementing PowerBI dashboards for data visualization and analysis. These dashboards can consolidate data
 from various sources, including the company’s sales figures, market trends, and regional manager reports.
 With these tools, the sales director can easily view the current business status, identify problem areas, 
 and make informed, data-driven decisions.
@@ -29,12 +29,11 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 
 ### Task:-
 
-- Finding Profit Margin, Sales Quantity and Revenue made in each year/month
-- Analyzing top 5 customers and product by revenue
-- Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each customer
-- Finding the Revenue Margin Contribution, Profit Margin Contribution and Profit % by each Market
+- Finding Revenue and Sales Quantity  made in each year/month
+- Analyzing top 5 customers by revenue
+- Analying top 5 products by revenue
 - Finding the Revenue trend by years
-- Analyzing Revenue contribution by customer type.
+- Analyzing Revenue and sales Qty by markets.
 
 ### Data Cleaning:-
 
@@ -57,7 +56,7 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 - There is a decrease in the revenue trend from 2017–2020
 - Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
 - E-commerce gives the highest revenue contribution by customer type
-- Surat gives highest profit % by market
+- Electricalsara stores is the top customer by revenue.
 - Central Market contributes to more Revenue
 
 ### Key Learnings:-
