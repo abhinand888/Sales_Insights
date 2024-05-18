@@ -2,7 +2,7 @@
 
 ### Problem Statement:-
 
-A company with multiple branches across India provides computer hardware and peripherals to its clients.
+A Hardware company with multiple branches across India provides computer hardware and peripherals to its clients.
 However, the sales director is facing challenges in understanding the company’s current issues and performance,
 as sales have been falling short of expectations. When seeking updates from regional managers, 
 the director often receives overly optimistic reports and a flood of Excel files, 
@@ -21,7 +21,7 @@ By providing a clear, visual representation of the data, the sales director can 
 Excel files and overly optimistic reports from regional managers, reducing misunderstandings and frustration.
 
 ### Data:-
-I have been provided with the SQL dataset which contains Sales customers,Sales date,Sales transactions,Sales Markets,Sales Products.
+I have been provided with the SQL dataset which contains Sales customers,Sales date,Sales transactions,Sales Markets,Sales Products from CodeBasics.
 
 ![Screenshot (459)(1)](https://github.com/abhinand888/Sales_Insights/assets/87313645/6952a7c5-da21-459b-a891-38b5d6fe8e7c)
 
@@ -38,9 +38,9 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 
 ### Data Cleaning:-
 
-- Removed zones which were left blank in market table
+- Removed data which were left blank in market table
 - Removed sales amount which were less than 0 in sales transaction table
-- Created new table called Normalized sales price to convert the USD price to INR price in sales transaction table
+- Created new table called Norm_amount to convert the USD price to INR price in sales transaction table
 - Removed duplicates from currency column in sales transaction table.
 
 ### Dashboarding:-
@@ -48,10 +48,12 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 
 
 ![Screenshot (454)(1)(1)](https://github.com/abhinand888/Sales_Insights/assets/87313645/86b32969-5ec4-4dd9-b92e-ebc92f8147c9)
+![2018-revenue](https://github.com/abhinand888/Sales_Insights/assets/87313645/d6990d6f-59d4-4077-b407-9c6b753b6cbe)
 
 
 ### Insights:-
 
+- The Highest Revenue is the year 2018.
 - There is a decrease in the revenue trend from 2017–2020
 - Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
 - E-commerce gives the highest revenue contribution by customer type
