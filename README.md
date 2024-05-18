@@ -2,23 +2,12 @@
 
 ### Problem Statement:-
 
-A Hardware company with multiple branches across India provides computer hardware and peripherals to its clients.
-However, the sales director is facing challenges in understanding the company’s current issues and performance,
-as sales have been falling short of expectations. When seeking updates from regional managers, 
-the director often receives overly optimistic reports and a flood of Excel files, 
-which only adds to the frustration. 
-This is understandable, as it's difficult to interpret numbers solely from Excel spreadsheets.
-
+A hardware company with multiple branches across India is struggling with declining sales. The sales director receives overly optimistic reports and numerous Excel files from regional managers, making it difficult to understand the company's issues and performance.
 ### Solution:-
 
-Proposed a solution to address the sales director’s challenges at the company:
-Implementing PowerBI dashboards for data visualization and analysis. These dashboards can consolidate data
-from various sources, including the company’s sales figures, market trends, and regional manager reports.
-With these tools, the sales director can easily view the current business status, identify problem areas, 
-and make informed, data-driven decisions.
+Implementing PowerBI dashboards for data visualization and analysis. These dashboards will consolidate data from sales figures, market trends, and regional manager reports, allowing the sales director to easily view the business status, identify issues, and make informed decisions.
 
-By providing a clear, visual representation of the data, the sales director can move away from relying on 
-Excel files and overly optimistic reports from regional managers, reducing misunderstandings and frustration.
+With clear visual representations of data, the sales director can move away from Excel files and overly optimistic reports, reducing misunderstandings and frustration.
 
 ### Data:-
 I have been provided with the SQL dataset which contains Sales customers,Sales date,Sales transactions,Sales Markets,Sales Products from CodeBasics.
@@ -42,12 +31,17 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 - Created new table called Norm_amount to convert the USD price to INR price in sales transaction table
 - Removed duplicates from currency column in sales transaction table.
 
+### Data Modeling:-
+- The dataset was cleaned and transformed, it was ready for the data model.
 ### Dashboarding:-
 
 
 
 ![Screenshot (454)(1)(1)](https://github.com/abhinand888/Sales_Insights/assets/87313645/86b32969-5ec4-4dd9-b92e-ebc92f8147c9)
+#### 2018 Revenue 
 ![2018-revenue](https://github.com/abhinand888/Sales_Insights/assets/87313645/d6990d6f-59d4-4077-b407-9c6b753b6cbe)
+#### Mobile Layout Version
+![mobile-layout](https://github.com/abhinand888/Sales_Insights/assets/87313645/1777bc40-3c2d-4057-93ec-4748df8901d1)
 
 
 ### Insights:-
@@ -59,10 +53,10 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 
 ### Key Learnings:-
 
-- How to do basic DAX calculations in measures
+- How to do  DAX calculations in measures
 - Importing data from SQL to Power BI
-- Publishing report to Power BI service
-- How to use basic charts for visualization
+- PowerBI in mobile layout
+- How to use charts for visualization
 - How to use filters in charts
 
 
