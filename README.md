@@ -53,11 +53,9 @@ I have been provided with the SQL dataset which contains Sales customers,Sales d
 ### Insights:-
 
 - The Highest Revenue is the year 2018.
-- There is a decrease in the revenue trend from 2017–2020
 - Delhi NCR is the highest contributor in Revenue and Sales quantity by Market.
-- E-commerce gives the highest revenue contribution by customer type
-- Electricalsara stores is the top customer by revenue.
-- Central Market contributes to more Revenue
+- Electricalsara stores is the highest revenue contributor by customer type.
+- There is a decrease in the revenue trend from 2017–2020
 
 ### Key Learnings:-
 
